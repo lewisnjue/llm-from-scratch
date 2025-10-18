@@ -1,3 +1,4 @@
 the-verdict.txt
 .venv/ 
 .venv 
+*.pth 
