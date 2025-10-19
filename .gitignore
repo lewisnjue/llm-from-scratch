@@ -2,3 +2,6 @@ the-verdict.txt
 .venv/ 
 .venv 
 *.pth 
+env/ 
+notebooks/gpt2/
+__pycache__  
