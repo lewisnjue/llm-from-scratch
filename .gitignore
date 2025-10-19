@@ -5,3 +5,7 @@ the-verdict.txt
 env/ 
 notebooks/gpt2/
 __pycache__  
+*.tsv 
+*.csv
+*.zip
+notebooks/sms_spam_collection/
