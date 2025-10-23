@@ -1,4 +1,13 @@
 pandas 
-
+json 
+pathlib
+os 
+urllib 
+torch 
+numpy 
+tensorflow 
+functools 
+requests 
+tqdm
 matplotlib 
 tiktoken
